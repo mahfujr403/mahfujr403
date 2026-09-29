@@ -250,21 +250,6 @@ I am a **Machine Learning Research Engineer** and **Full-Stack AI Developer** ho
 
 ---
 
-## 📊 GitHub Analytics & Activity Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahfujr403&show_icons=true&theme=tokyonight&hide_border=false&border_color=1e293b&bg_color=050814&title_color=00f2fe&icon_color=8b5cf6&text_color=94a3b8" width="48%" alt="Mahfuj's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujr403&theme=tokyonight&hide_border=false&border_color=1e293b&background=050814&ring=00f2fe&fire=8b5cf6&currStreakLabel=00f2fe&stroke=1e293b" width="48%" alt="Mahfuj's Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujr403&layout=compact&theme=tokyonight&hide_border=false&border_color=1e293b&bg_color=050814&title_color=00f2fe&text_color=94a3b8" width="52%" alt="Top Languages" />
-
-</div>
-
----
-
 ## 📬 Connect With Me
 
 <div align="center">
